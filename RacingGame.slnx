@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RacingGame/RacingGame.vcxproj" Id="37841f30-9df1-4e0e-96c5-f9ed012dd28a" />
+</Solution>
